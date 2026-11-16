@@ -7,7 +7,7 @@
 | Lab file | [LAB-001-Configuring_Standard_VLANs_on_Catalyst_Switches.unl](LAB-001-Configuring_Standard_VLANs_on_Catalyst_Switches.unl) |
 | Difficulty | Beginner |
 
-![Topology and solution](screenshots/01-topology-solution.png)
+![Topology and tasks](screenshots/01-topology-tasks.png)
 
 ---
 
@@ -118,7 +118,9 @@ Et1/2                        connected    1          a-full   auto RJ45
 Et1/3                        connected    1          a-full   auto RJ45
 ```
 
-![Output](screenshots/02-output.png)
+![VLAN table and output](screenshots/02-vlan-table-output.png)
+
+![Solution and verify](screenshots/03-solution-verify.png)
 
 ---
 
