@@ -6,7 +6,7 @@ Every lab is self-contained. The topology, objective, tasks, solution, verificat
 
 ![Platform](https://img.shields.io/badge/Platform-EVE--NG-1E3A5F)
 ![Track](https://img.shields.io/badge/Track-CCNA-185FA5)
-![Progress](https://img.shields.io/badge/Labs-1%20%2F%20101-3B6D11)
+![Progress](https://img.shields.io/badge/Labs-2%20%2F%20101-3B6D11)
 
 ---
 
@@ -15,11 +15,14 @@ Every lab is self-contained. The topology, objective, tasks, solution, verificat
 | # | Lab | Topic | Folder |
 |---|-----|-------|--------|
 | 001 | Configuring Standard VLANs on Catalyst Switches | VLANs, access ports | [LAB-001-Standard-VLANs](LAB-001-Standard-VLANs/) |
-| 002 | _coming soon_ | | |
+| 002 | Configuring Extended VLANs on Catalyst Switches | Extended VLANs, VTP transparent | [LAB-002-Extended-VLANs](LAB-002-Extended-VLANs/) |
+| 003 | _coming soon_ | | |
 
 > A new lab is added every day. Follow along on [LinkedIn](https://www.linkedin.com/in/raman9717).
 
 ---
+
+> 🛠️ **New to EVE-NG?** Start with the [Lab Setup guide](SETUP.md): EVE-NG install, free Linux images and the Cisco images these labs use.
 
 ## How to import a lab into EVE-NG
 
